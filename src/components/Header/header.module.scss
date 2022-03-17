@@ -1,1 +1,14 @@
-// TODO
+.container {
+  height: 9.375rem;
+
+  display: flex;
+
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-left: 23rem;
+
+  img {
+    cursor: pointer;
+  }
+}
